@@ -1,4 +1,4 @@
-class SourcetraitRpg < Formula
+class SourceTraitRpg < Formula
   desc "PostgreSQL bindings for Rust"
   homepage "https://sourcetrait.com"
   url "https://github.com/sourcetrait/homebrew-tap/releases/download/sourcetrait_rpg%2F0.0.1/sourcetrait_rpg_pg18.tar.gz"
